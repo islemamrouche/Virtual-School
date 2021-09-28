@@ -1,0 +1,71 @@
+.form-control {
+	height: 40px;
+	box-shadow: none;
+	color: #969fa4;
+}
+.form-control:focus {
+	border-color: #5cb85c;
+}
+.form-control, .btn {        
+	border-radius: 3px;
+}
+.subscription-form {
+	width: 450px;
+	margin: 0 auto;
+	padding: 30px 0;
+	font-size: 15px;
+}
+.subscription-form h2 {
+	color: #636363;
+	margin: 0 0 15px;
+	position: relative;
+	text-align: center;
+}
+.subscription-form h2:before, .subscription-form h2:after {
+	content: "";
+	height: 2px;
+	width: 25%;
+	background: #d4d4d4;
+	position: absolute;
+	top: 50%;
+	z-index: 2;
+}	
+.subscription-form h2:before {
+	left: 0;
+}
+.subscription-form h2:after {
+	right: 0;
+}
+.subscription-form .hint-text {
+	color: #999;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.subscription-form form {
+	color: #999;
+	border-radius: 3px;
+	margin-bottom: 15px;
+	background: #f2f3f7;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	padding: 30px;
+}
+.subscription-form .form-group {
+	margin-bottom: 20px;
+}
+
+.subscription-form .btn {        
+	font-size: 16px;
+	font-weight: bold;		
+	min-width: 140px;
+	outline: none !important;
+}
+.subscription-form .row div:first-child {
+	padding-right: 10px;
+}
+.subscription-form .row div:last-child {
+	padding-left: 10px;
+}    	
+
+.navbar-color{
+  color: #002129;
+}

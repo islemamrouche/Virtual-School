@@ -1,0 +1,33 @@
+{
+  "translation":{
+    "home": "الرئيسية",
+    "english":"انجليزية",
+    "services":"خدمات",
+    "training":"دورات",
+    "contact_us":"اتصل بنا",
+    "sign_up":"سجل",
+    "language":"اللغة",
+    "check_programs":"تحقق من برامجنا",
+    "why_us":"لماذا نحن",
+    "online_teaching":"التدريس عبر الإنترنت",
+    "qualified_teachers":"أساتذة مؤهلين",
+    "educational_events":"أحداث تعليمية",
+    "online_training":"تدريبات عبر الانترنت",
+    "multiple_services":"العديد من الخدمات",
+    "low_price":"ثمن زهيد",
+    "want_to_test_your_english_level_?":"تريد اختبار مستواك في اللغة الإنجليزية؟",
+    "english_test":"اختبار اللغة الإنجليزية",
+    "your_email":"بريدك الإلكتروني",
+    "finish_quiz" :"إنهاء الاختبار", 
+    "next_question" :"السؤال التالي",
+    "enter_your_email":"أدخل بريدك الإلكتروني", 
+    "start_test":"ابدأ الاختبار",
+    "general_english_test":"اختبار اللغة الإنجليزية العامة",
+    "taken_by":"اخذت بواسطة",
+    "your_score_is":"نتيجتك هي",
+    "your_level_is":"مستواك هو",
+    "restart_test":"إعادة الاختبار",
+    "consumed_all_tests":"استهلك جميع الاختبارات",
+    "loading":"...جار التحميل"
+  }
+}

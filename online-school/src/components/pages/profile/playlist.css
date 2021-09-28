@@ -1,0 +1,68 @@
+.sidebar-p {
+  height: 100%;
+  margin-top:60px;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #002129;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+.sidebar-p a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidebar-p a:hover {
+  color: #f1f1f1;
+}
+.ac .nav-link.active {
+  color:white;
+  font-size:25px
+}
+
+.sidebar-p .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.openbtn {
+  position: fixed;
+  font-size: 15px;
+  width:150px;
+  cursor: pointer;
+  background-color: #002129;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+}
+
+.openbtn:hover {
+  background-color: #111;
+}
+
+#main-p {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+video{
+  width: 60%;
+  height: 50%;
+}
+.top-side{
+  padding-top:0;
+  padding-bottom:15px;
+  margin-top:0;
+}
