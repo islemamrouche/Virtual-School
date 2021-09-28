@@ -5,7 +5,7 @@ It's fully dynamic, the content, the pages, the static files, the groups, the le
 
 *The app is developed using:
 -Django REST Framework in the backend 
--React in the frontend, many hooks were used like useState useEffect useRef also axios was used for fetching, ContextAPI for managing states...etc. 
+-React in the frontend, many hooks were used like useState useEffect useRef, also Axios was used for fetching, ContextAPI for managing states...etc. 
 -Jason Web Tokens (JWT) stateless authentication was used to autheticate students and teachers.
 
 THE APP IS DEVELOPED ENTIRELY BY ME "Islem Amrouche".
